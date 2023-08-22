@@ -1,4 +1,4 @@
-# UX Portfolio
+# Jhet's UX Portfolio
 
 About me...
 
