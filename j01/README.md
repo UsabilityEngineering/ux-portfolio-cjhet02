@@ -1,7 +1,7 @@
 # Yep, it's still there. Now what?
 Everyone that's been driving a car for a good amount of time has experienced it: the **check engine light**. If you aren't aware of what the check engine light is, it is a beacon of despair. A harbinger of anxiety and misfortunes to come. In other words, it means your car detected something wrong, but is too shy to tell you what the problem actually is.
 
-![]([](../assets/checkengine.jpg)
+![](../assets/checkengine.jpg)
 
 Above you can see what it looks like when my car's check engine light is on, as well as a couple others (from google, not my own car luckily). Starting from the top is the maintainence required light. This is a minor inconvenience that simply needs to be cleared away once routine maintainence (eg. an oil change) is completed. At the bottom we can see the oil light, check engine light, and battery lights from left to right. There is beauty in simplicity, and these lights all follow the general conventions of how they tend to appear in most cars. The oil light means that the oil is not circulating properly in the car, and the battery light means the battery is losing charge without replenishing it. Both are useful and only have one reason for appearing. The issue lies in the aforementioned check engine light. A user with no knowledge of these lights would likely have little issue deciphering what most of them mean, with a quick google search available to confirm their suspicions. The check engine light, however, contains no such simplicity. When this light comes on, it means that one of the many sensors in the car failed a test, and the only way to know which sensor or what it means is to view the error codes stored in the computer using the **OBD Port**.
 
